@@ -1,0 +1,51 @@
+
+.main-body{
+  /* border: 10px solid red; */
+  width: 70%;
+  margin: 10px auto;
+  text-align: center;
+  height: 1000px;
+  /* padding: 400px 10px; */
+  padding-top: 10px;
+  padding-bottom: 490px;
+  padding-left: 15px;
+  padding-right: 15px;
+  /* box-sizing: border-box; */
+}
+
+#head{
+  /* border: 5px solid aqua; */
+  /* box-sizing: border-box; */
+  padding: 10px 0;
+}
+
+.tit{
+  font-size: 20px;
+  float: right;
+  width: 55%;
+  /* border: 5px solid blue; */
+  /* box-sizing: border-box; */
+}
+
+.des{
+  float: right;
+  width: 55%;
+  /* border: 5px solid green; */
+  /* box-sizing: border-box; */
+  padding: 5px 15px;
+}
+
+.ima{
+  float: left;
+  width: 30%;
+  /* border: 5px solid yellow; */
+  /* box-sizing: border-box; */
+  /* padding: 100px 0 100px 0; */
+  margin-right: 5px;
+  margin-top: 80px;
+}
+
+.girl{
+  width: fit-content;
+  height: 250px;
+}
